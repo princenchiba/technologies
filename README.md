@@ -1,4 +1,4 @@
-### <div align="center">I'm Nchiba, a full-time full-stack developer 👨‍💻 working since 2016 🚀</div>  
+### <div align="center">I'm Prince Nchiba, a full-time full-stack developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on .Net/Flutter/Angular related project  
